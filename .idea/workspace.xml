@@ -5,49 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41569dc6-e75f-40d4-8272-0cc49c854d9f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/0/f07866736216be0ee2aba49e392191aeae700a35" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/0/f07866736216be0ee2aba49e392191aeae700a35" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/postman/DeleteUserModel/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/postman/DeleteUserModel/DeleteResponseModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/postman/DeleteUserModel/Geolocation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/postman/DeleteUserModel/Name.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/postman/models/UserModel/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/postman/models/UserModel/Geolocation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/postman/models/UserModel/Name.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/postman/models/UserModel/UserModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/postman/questions/BuildDataUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/postman/questions/DeleteDataResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/postman/questions/PutDataServerResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/postman/questions/ServerResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/postman/tasks/DeleteUserTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/postman/tasks/PostUserTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/postman/tasks/PutUserTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/postman/utils/DeleteData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/postman/utils/Excel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/postman/utils/UserData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/postman/runners/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/postman/stepDefinitions/DeleteUserStepDefinition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/postman/stepDefinitions/PostUserStepDefinition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/postman/stepDefinitions/PutUserStepDefinition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/DeleteUser.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/PostUser.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/PutUser.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
